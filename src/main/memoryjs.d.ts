@@ -101,7 +101,7 @@ declare module 'memoryjs' {
 		handle: number,
 		moduleName: string,
 		signature: string,
-		signatureType: number,
+		gay
 		patternOffset: number,
 		addressOffset: number
 	): number;
